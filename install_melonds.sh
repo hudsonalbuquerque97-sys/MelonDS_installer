@@ -2,7 +2,7 @@
 
 # Instalador do MelonDS para Linux Mint 22.1
 # Compila a última versão do GitHub com todas as dependências
-# criado por Hudson Albuquerque (hud.and@yandex.com)
+# criado por Hudson Albuquerque 
 
 set -e
 
